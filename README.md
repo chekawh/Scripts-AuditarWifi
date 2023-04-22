@@ -6,8 +6,11 @@ Scripts automatizado para efectuar una auditoría a las redes wifi.
 >>> REQUISITOS <<<
 
 sudo git clone https://github.com/chekawh/Scripts-AuditarWifi.git
+
 cd Scripts-AuditarWifi
+
 sudo chmod +755 permisos.sh
+
 sudo ./permisos.sh
 
 -------------------------------------------------------------------------------------------------------------------------------
