@@ -13,6 +13,8 @@ sudo chmod +755 permisos.sh
 
 sudo ./permisos.sh
 
+Los demas archivo se ejecuta igual "sudo ./nombrearchivo" , siempre hacer uso del sudo o en caso contrario con el usuario Root ya que hay comandos que necesita ser usuario root para ejecutarse
+
 -------------------------------------------------------------------------------------------------------------------------------
 
 Una vez realizado los pasos anteriores ya podemos ejecutar los siguientes scripts. En el siguiente orden:
