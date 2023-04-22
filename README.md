@@ -11,9 +11,9 @@ cd Scripts-AuditarWifi
 
 sudo chmod +755 permisos.sh
 
-sudo ./permisos.sh
+sudo  ./permisos.sh
 
-Los demas archivos se ejecuta igual "sudo ./nombrearchivo" , siempre hacer uso del sudo o en caso contrario con el usuario Root ya que hay comandos que necesita ser usuario root para ejecutarse
+Los demas archivos se ejecuta igual "sudo  ./nombrearchivo" , siempre hacer uso del sudo o en caso contrario con el usuario Root ya que hay comandos que necesita ser usuario root para ejecutarse
 
 -------------------------------------------------------------------------------------------------------------------------------
 
